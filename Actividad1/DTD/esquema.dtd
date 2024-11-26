@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE esquema>
+[
+<!ELEMENT biblioteca (libro+)>
+<!ELEMENT libro (titulo, autor, año, genero, isbn, editorial)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT año (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT isbn (#PCDATA)>
+<!ELEMENT editorial (#PCDATA)>
+]
+>

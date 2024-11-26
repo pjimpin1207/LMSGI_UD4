@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca SYSTEM "C:\Users\1DAW2425-06\Documents\lenguaje-de-marcas\Tema4\Actividad1\DTD\esquema.dtd>
+<biblioteca>
+    <libro>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <año>1605</año>
+        <genero>Novela</genero>
+        <isbn>978-3-16-148410-0</isbn>
+        <editorial>Editorial Planeta</editorial>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <año>1949</año>
+        <genero>Distopía</genero>
+        <isbn>978-0-452-28423-4</isbn>
+        <editorial>Harvill Secker</editorial>
+    </libro>
+    <libro>
+        <titulo>El Gran Gatsby</titulo>
+        <autor>F. Scott Fitzgerald</autor>
+        <año>1925</año>
+        <genero>Novela</genero>
+        <isbn>978-0-7432-7356-5</isbn>
+        <editorial>Scribner</editorial>
+    </libro>
+    <libro>
+        <titulo>Cien Años de Soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <año>1967</año>
+        <genero>Realismo Mágico</genero>
+        <isbn>978-0-06-088328-7</isbn>
+        <editorial>Editorial Sudamericana</editorial>
+    </libro>
+    <libro>
+        <titulo>Harry Potter y la Piedra Filosofal</titulo>
+        <autor>J.K. Rowling</autor>
+        <año>1997</año>
+        <genero>Fantasía</genero>
+        <isbn>978-0-545-01022-1</isbn>
+        <editorial>Bloomsbury</editorial>
+    </libro>
+    <libro>
+        <titulo>Orgullo y Prejuicio</titulo>
+        <autor>Jane Austen</autor>
+        <año>1813</año>
+        <genero>Romántica</genero>
+        <isbn>978-1-85326-000-1</isbn>
+        <editorial>Penguin Classics</editorial>
+    </libro>
+    <libro>
+        <titulo>El Hobbit</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <año>1937</año>
+        <genero>Fantasía</genero>
+        <isbn>978-0-618-00221-3</isbn>
+        <editorial>Houghton Mifflin Harcourt</editorial>
+    </libro>
+    <libro>
+        <titulo>La Sombra del Viento</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <año>2001</año>
+        <genero>Misterio</genero>
+        <isbn>978-0-23-074766-7</isbn>
+        <editorial>Planeta</editorial>
+    </libro>
+    <libro>
+        <titulo>El Código Da Vinci</titulo>
+        <autor>Dan Brown</autor>
+        <año>2003</año>
+        <genero>Thriller</genero>
+        <isbn>978-0-385-50420-8</isbn>
+        <editorial>Doubleday</editorial>
+    </libro>
+    <libro>
+        <titulo>Crimen y Castigo</titulo>
+        <autor>Fiódor Dostoyevski</autor>
+        <año>1866</año>
+        <genero>Psicológico</genero>
+        <isbn>978-0-14-044913-6</isbn>
+        <editorial>Penguin Classics</editorial>
+    </libro>
+</biblioteca>
