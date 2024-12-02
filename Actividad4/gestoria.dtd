@@ -1,0 +1,12 @@
+<!ELEMENT gestoría (sede+)>
+<!ELEMENT sede (codigo_sede, nombre_empleado, fecha_alta, cliente+)>
+<!ELEMENT codigo_sede (#PCDATA)>
+<!ELEMENT nombre_empleado (#PCDATA)>
+<!ELEMENT fecha_alta (#PCDATA)>
+<!ELEMENT cliente (codigo_cliente, descripcion_cliente?, numero_viviendas, coste_vivienda, resumen_viviendas, plazo_alta_hacienda)>
+<!ELEMENT codigo_cliente (#PCDATA)>
+<!ELEMENT descripcion_cliente (#PCDATA)>
+<!ELEMENT numero_viviendas (#PCDATA)>
+<!ELEMENT coste_vivienda (#PCDATA)>
+<!ELEMENT resumen_viviendas (#PCDATA)>
+<!ELEMENT plazo_alta_hacienda (#PCDATA)>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gestoria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="gestoria gestoria.xsd">
+        
+  <sede>
+    <codigo_sede>A1234567</codigo_sede>
+    <nombre_empleado>Juan Pérez</nombre_empleado>
+    <fecha_alta>2024-12-01</fecha_alta>
+    <cliente>
+      <codigo_cliente>ABC-123</codigo_cliente>
+      <descripcion_cliente>solvente</descripcion_cliente>
+      <numero_viviendas>2</numero_viviendas>
+      <coste_vivienda>150000.00</coste_vivienda>
+      <resumen_viviendas>2 viviendas de 3 habitaciones</resumen_viviendas>
+      <plazo_alta_hacienda>2024-12-02</plazo_alta_hacienda>
+    </cliente>
+  </sede>
+</gestoria>
