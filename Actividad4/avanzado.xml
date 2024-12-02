@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gestoria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="gestoria.xsd">
+  <sede>
+    <codigo_sede>C1234567</codigo_sede>
+    <nombre_empleado>Juan Pérez</nombre_empleado>
+    <fecha_alta>2024-12-01</fecha_alta>
+    <direccion>Plaza Mayor, 1</direccion>
+    <departamento_entrada>Autorizaciones</departamento_entrada>
+    <departamento_gestion_clientes>Gestión de Clientes</departamento_gestion_clientes>
+  </sede>
+  <cliente>
+    <codigo_cliente>AAA-112</codigo_cliente>
+    <descripcion_cliente>insolvente</descripcion_cliente>
+    <numero_viviendas>10</numero_viviendas>
+    <vivienda id="001">
+      <coste>100</coste>
+      <resumen>Producto muy frágil</resumen>
+      <plazo>10</plazo>
+    </vivienda>
+    <vivienda id="002">
+      <coste>130</coste>
+      <resumen>Producto nada frágil</resumen>
+      <plazo>17</plazo>
+    </vivienda>
+  </cliente>
+</gestoria>
