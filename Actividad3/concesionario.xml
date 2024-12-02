@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concesionario SYSTEM "esquema.dtd">
+<concesionario>
+  <coche>
+    <codigo>C001</codigo>
+    <marca>Ford</marca>
+    <modelo>Fiesta</modelo>
+    <matricula>1234ABC</matricula>
+    <potencia>75</potencia>
+    <plazas>5</plazas>
+    <numero_puertas>5</numero_puertas>
+  </coche>
+  <coche>
+    <codigo>C002</codigo>
+    <marca>Volkswagen</marca>
+    <modelo>Polo</modelo>
+    <matricula>5678XYZ</matricula>
+    <potencia>90</potencia>
+    <plazas>5</plazas>
+    <numero_puertas>5</numero_puertas>
+  </coche>
+</concesionario>
