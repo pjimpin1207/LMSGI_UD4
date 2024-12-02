@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alumnos SYSTEM "alumnos.dtd">
+<alumnos>
+  <alumno>
+    <nif>12345678A</nif>
+    <resultado>apto</resultado>
+    <observaciones>Excelente rendimiento</observaciones>
+    <direccion>
+      <ip>192.168.1.10</ip>
+    </direccion>
+  </alumno>
+  <alumno>
+    <nif>98765432B</nif>
+    <resultado>no apto</resultado>
+    <direccion>
+      <mac>00-14-22-01-23-45</mac>
+    </direccion>
+  </alumno>
+</alumnos>

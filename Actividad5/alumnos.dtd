@@ -1,0 +1,8 @@
+<!ELEMENT alumnos (alumno+)>
+<!ELEMENT alumno (nif, resultado, observaciones?, direccion)>
+<!ELEMENT nif (#PCDATA)>
+<!ELEMENT resultado (#PCDATA)>
+<!ELEMENT observaciones (#PCDATA)>
+<!ELEMENT direccion (ip | mac)>
+<!ELEMENT ip (#PCDATA)>
+<!ELEMENT mac (#PCDATA)>
