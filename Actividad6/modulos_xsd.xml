@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modulos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="modulos.xsd">
+  <modulo>
+    <nombre>Programación</nombre>
+    <contenidos>
+      <ud>
+        <tipo>Teórica</tipo>
+        <descripcion>Introducción a la programación</descripcion>
+      </ud>
+      <ud>
+        <tipo>Práctica</tipo>
+        <descripcion>Desarrollo de algoritmos básicos</descripcion>
+      </ud>
+    </contenidos>
+  </modulo>
+  <modulo>
+    <nombre>Entornos de desarrollo</nombre>
+    <contenidos>
+      <ud>
+        <tipo>Practica</tipo>
+        <descripcion>Entornos de desarrollo</descripcion>
+      </ud>
+      <ud>
+        <tipo>Práctica</tipo>
+        <descripcion>Implementación de interfaces gráficas</descripcion>
+      </ud>
+    </contenidos>
+  </modulo>
+</modulos>
