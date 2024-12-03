@@ -1,0 +1,25 @@
+{
+    "concesionario": {
+      "coche": [
+        {
+          "codigo": "C001",
+          "marca": "Ford",
+          "modelo": "Fiesta",
+          "matricula": "1234ABC",
+          "potencia": 75,
+          "plazas": 5,
+          "numero_puertas": 5
+        },
+        {
+          "codigo": "C002",
+          "marca": "Volkswagen",
+          "modelo": "Polo",
+          "matricula": "5678XYZ",
+          "potencia": 90,
+          "plazas": 5,
+          "numero_puertas": 5
+        }
+      ]
+    }
+  }
+  

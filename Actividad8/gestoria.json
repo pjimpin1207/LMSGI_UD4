@@ -1,0 +1,31 @@
+{
+  "gestoria": {
+    "sede": {
+      "codigo_sede": "C1234567",
+      "nombre_empleado": "Juan Pérez",
+      "fecha_alta": "2024-12-01",
+      "direccion": "Plaza Mayor, 1",
+      "departamento_entrada": "Autorizaciones",
+      "departamento_gestion_clientes": "Gestión de Clientes"
+    },
+    "cliente": {
+      "codigo_cliente": "AAA-112",
+      "descripcion_cliente": "insolvente",
+      "numero_viviendas": 10,
+      "vivienda": [
+        {
+          "id": "001",
+          "coste": 100,
+          "resumen": "Producto muy frágil",
+          "plazo": 10
+        },
+        {
+          "id": "002",
+          "coste": 130,
+          "resumen": "Producto nada frágil",
+          "plazo": 17
+        }
+      ]
+    }
+  }
+}

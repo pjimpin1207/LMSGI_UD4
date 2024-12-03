@@ -1,0 +1,22 @@
+{
+    "alumnos": {
+      "alumno": [
+        {
+          "nif": "12345678A",
+          "resultado": "apto",
+          "observaciones": "Excelente rendimiento",
+          "direccion": {
+            "ip": "192.168.1.10"
+          }
+        },
+        {
+          "nif": "98765432B",
+          "resultado": "no apto",
+          "direccion": {
+            "mac": "00-14-22-01-23-45"
+          }
+        }
+      ]
+    }
+  }
+  

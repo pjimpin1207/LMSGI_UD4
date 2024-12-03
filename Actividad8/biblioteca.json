@@ -1,0 +1,87 @@
+{
+    "biblioteca": {
+      "libro": [
+        {
+          "titulo": "Don Quijote de la Mancha",
+          "autor": "Miguel de Cervantes",
+          "año": 1605,
+          "genero": "Novela",
+          "isbn": "978-3-16-148410-0",
+          "editorial": "Editorial Planeta"
+        },
+        {
+          "titulo": "1984",
+          "autor": "George Orwell",
+          "año": 1949,
+          "genero": "Distopía",
+          "isbn": "978-0-452-28423-4",
+          "editorial": "Harvill Secker"
+        },
+        {
+          "titulo": "El Gran Gatsby",
+          "autor": "F. Scott Fitzgerald",
+          "año": 1925,
+          "genero": "Novela",
+          "isbn": "978-0-7432-7356-5",
+          "editorial": "Scribner"
+        },
+        {
+          "titulo": "Cien Años de Soledad",
+          "autor": "Gabriel García Márquez",
+          "año": 1967,
+          "genero": "Realismo Mágico",
+          "isbn": "978-0-06-088328-7",
+          "editorial": "Editorial Sudamericana"
+        },
+        {
+          "titulo": "Harry Potter y la Piedra Filosofal",
+          "autor": "J.K. Rowling",
+          "año": 1997,
+          "genero": "Fantasía",
+          "isbn": "978-0-545-01022-1",
+          "editorial": "Bloomsbury"
+        },
+        {
+          "titulo": "Orgullo y Prejuicio",
+          "autor": "Jane Austen",
+          "año": 1813,
+          "genero": "Romántica",
+          "isbn": "978-1-85326-000-1",
+          "editorial": "Penguin Classics"
+        },
+        {
+          "titulo": "El Hobbit",
+          "autor": "J.R.R. Tolkien",
+          "año": 1937,
+          "genero": "Fantasía",
+          "isbn": "978-0-618-00221-3",
+          "editorial": "Houghton Mifflin Harcourt"
+        },
+        {
+          "titulo": "La Sombra del Viento",
+          "autor": "Carlos Ruiz Zafón",
+          "año": 2001,
+          "genero": "Misterio",
+          "isbn": "978-0-23-074766-7",
+          "editorial": "Planeta"
+        },
+        {
+          "titulo": "El Código Da Vinci",
+          "autor": "Dan Brown",
+          "año": 2003,
+          "genero": "Thriller",
+          "isbn": "978-0-385-50420-8",
+          "editorial": "Doubleday"
+        },
+        {
+          "titulo": "Crimen y Castigo",
+          "autor": "Fiódor Dostoyevski",
+          "año": 1866,
+          "genero": "Psicológico",
+          "isbn": "978-0-14-044913-6",
+          "editorial": "Penguin Classics"
+        }
+      ]
+    }
+  }
+  

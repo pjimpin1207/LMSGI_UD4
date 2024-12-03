@@ -1,0 +1,37 @@
+{
+    "modulos": {
+      "modulo": [
+        {
+          "nombre": "Programación",
+          "contenidos": {
+            "ud": [
+              {
+                "tipo": "Teórica",
+                "descripcion": "Introducción a la programación"
+              },
+              {
+                "tipo": "Práctica",
+                "descripcion": "Desarrollo de algoritmos básicos"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Entornos de desarrollo",
+          "contenidos": {
+            "ud": [
+              {
+                "tipo": "Teórica",
+                "descripcion": "Principios de diseño de interfaces"
+              },
+              {
+                "tipo": "Práctica",
+                "descripcion": "Implementación de interfaces gráficas"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+  
